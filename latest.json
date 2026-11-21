@@ -1,11 +1,11 @@
 {
-  "version": "0.2.80",
-  "notes": "Rockey desktop 0.2.80",
-  "pub_date": "2026-11-20T13:56:20Z",
+  "version": "0.2.82",
+  "notes": "Rockey desktop 0.2.82",
+  "pub_date": "2026-11-21T08:15:02Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ0x4VDdrMVdmU3huU3ltMytJT0ZXVHUwSmc2NWxlN0gvTHZacm53VFQ4TUtjT2JieGM5YWNyUkh3bUJBdEJPaXlGY2ZNZExSODQ2RHNlTVVZSTI4ZmpBb0c4OFIzWndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTgyOTM3CWZpbGU6Um9ja2V5IERlc2t0b3BfMC4yLjgwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuODAKR1ZKZ2tJWHdQZXJibjBnaVp5Zmlpc0tCTmRhZ1hKMkl0cjJkR3FiMmlXSzlwWjFGb2NwV0UvdjhXWDV6S3ZZWENEaUkvUmFST2xmRHRwWnFkRE41QUE9PQo=",
-      "url": "https://raw.githubusercontent.com/abtpltd/RockeyDesktop-updates/master/releases/0.2.80/Rockey-Desktop-0.2.80-run80-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ0x4VDdrMVdmU3d5ZlcreG1GdkFFMXc1NG4wMnFzT05zQUpxUXc5WGlQbk5TKzd3OGVSWElSR0R0cmc5L1hybHA3MnNFN0lHckpGTENVTEl2WE90OXVVaHFRTkdEbGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjQ4ODY2CWZpbGU6Um9ja2V5IERlc2t0b3BfMC4yLjgyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuODIKRHNvM0x1Z0VxOW82S3dReTluVUpPbGFCMU1sQm1hV1Y0Q0JVSG9tbmhJRXFhaGNXK1RMNkVVQ3dpMDk5VTdOdTBQd0htbjkwbGJPOE1hTmIvbjk0Qnc9PQo=",
+      "url": "https://raw.githubusercontent.com/abtpltd/RockeyDesktop-updates/master/releases/0.2.82/Rockey-Desktop-0.2.82-run82-setup.exe"
     }
   }
 }
