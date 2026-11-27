@@ -1,7 +1,7 @@
 {
     "version":  "0.3.1",
     "notes":  "- Excel export of every report: the same title and the same columns as your company\u0027s web page (hidden columns too), with the title in the first row\n- Visit Report: the same columns and rows as the web page, the Sales Rep filter, invoice numbers, and Close Visit in the visit window\n- Sales invoice: the same page as the web for companies on the new web view (fields, quantities, free items, totals), To Approve and refresh customer\n- Purchase documents: the same page and buttons as the web; purchase invoice Export and Recalc\n- Sales Order: Print with price prints the web\u0027s order page\n- Route planning: add customers to a saved plan with the Edit right; renamed pages and new reports open without a new app version",
-    "pub_date":  "2026-11-27T05.47.15Z",
+    "pub_date":  "2026-11-27T05:47:15Z",
     "platforms":  {
                       "windows-x86_64":  {
                                              "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNDFVNFllSFlTRkxmTDZtMnFSN1VmRys5ZDZtOGdaUHhjZS9CYzRVRU9GaVM1dHJvaGFUaE9LOGdYcUtwaElaUXZhbk1kRFJiOW9JbnJBbkNad2xTWTFreW04eDZZakFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzU4NDM0CWZpbGU6Um9ja2V5IERlc2t0b3BfMC4zLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4xCjBWRXRhN0tCL2IvVHZGZUFXRzNhZ3ZGMklvcHhjU044YWZoNGcweDVUZFJqTkR5S3doV2J4SE53b0R0NzhSNTRxOXAxR25GL0o2UjJPamQvTlFSS0FRPT0K",
