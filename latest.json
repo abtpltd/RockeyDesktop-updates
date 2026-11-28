@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.2",
+    "version":  "0.3.3",
     "notes":  "- Excel export of every report: the same title and the same columns as your company\u0027s web page (hidden columns too), with the title in the first row\n- Visit Report: the same columns and rows as the web page, the Sales Rep filter, invoice numbers, and Close Visit in the visit window\n- Sales invoice: the same page as the web for companies on the new web view (fields, quantities, free items, totals), To Approve and refresh customer\n- Purchase documents: the same page and buttons as the web; purchase invoice Export and Recalc\n- Sales Order: Print with price prints the web\u0027s order page\n- Route planning: add customers to a saved plan with the Edit right; renamed pages and new reports open without a new app version",
-    "pub_date":  "2026-11-27T08:10:20Z",
+    "pub_date":  "2026-11-28T14:01:02Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNDFVNFllSFlTRk9ISTJKTlo3T0x3bGpnRUNKaHVkSjV6TEtGclNzOEFjcUZkMnVIWVVTMGVBTEVUc3dxbWhrSE1naW9Ld0Y1cVc5aXhoN3VjbXNKWU9vTkNOVFdFeWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzY3MDE5CWZpbGU6Um9ja2V5IERlc2t0b3BfMC4zLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4yCjNzUDZJOFRBYiswZ0pRcHV3bVErbkJTeEFJSzdNVHZJTXJGREpXd2g5K3BEbG0veFRLM1ByRzJYcTVpNlY4R29ucW1FRXpZQ1pyQmVDMXJOemRiZ0NRPT0K",
-                                             "url":  "https://raw.githubusercontent.com/abtpltd/RockeyDesktop-updates/master/releases/0.3.2/Rockey-Desktop-0.3.2-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNDFVNFllSFlTRktFa2pRWjB0dVJCZHdBQXhjZWMzaUw1MTVRa1I5c2kraVFyOS93cUxFS2xqTWdJL3ZhZW5qaWpwN2Fhb0tSSmowME9rLzJyQ0E3MnNnbUJ0K3ZXNlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODc0NDYyCWZpbGU6Um9ja2V5IERlc2t0b3BfMC4zLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4zCjFmV2pyTWswYUxjWVdHR0N3LzZBUk9mOVRDSWpRQWlzMGlJQjRTdUZ4SEhHKy84cWw0Q0RJNmtOc0NDemtBazV3c3JpTzViend2Mi9mdHFvUjMzU0N3PT0K",
+                                             "url":  "https://raw.githubusercontent.com/abtpltd/RockeyDesktop-updates/master/releases/0.3.3/Rockey-Desktop-0.3.3-setup.exe"
                                          }
                   }
 }
